@@ -17,7 +17,7 @@
 <!--        </classes>-->
 <!--    </test>-->
 
-    <test name="TestOnChrome">
+    <test name="TestOnChromeBrowser">
         <parameter name="browser" value="chrome"></parameter>
         <classes>
             <class name="com.vtiger.runner.TestRunner"/>
