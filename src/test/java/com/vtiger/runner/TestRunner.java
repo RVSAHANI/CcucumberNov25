@@ -16,7 +16,7 @@ import org.testng.annotations.Parameters;
         ,glue={"com.vtiger.stepsdefinitions"}
 
         ,dryRun = false
-        ,plugin = {"pretty","html:target/cucumber-reports.html"}
+        ,plugin = {"pretty","html:target/cucumber-reports.html","json:target/cucumber.json"}
         ,tags = "@abc"
         ,monochrome = false
 

@@ -37,6 +37,7 @@
       <change beforePath="$PROJECT_DIR$/src/test/resources/Data/testdata.xlsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/Features/Leads.feature" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/Features/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Features/Login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
