@@ -7,37 +7,17 @@
     <list default="true" id="5513ef88-366c-4dc4-a977-ae082407d4a8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/pages/HomePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/pages/LeadPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/pages/LoginPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/ExtentReport_26102025041242.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/ExtentReport_26102025041958.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/ExtentReport_26102025043313.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/ExtentReport_26102025043437.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/ExtentReport_26102025043907.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/screenshot/26102025043439.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/screenshot/26102025043440.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/screenshot/26102025043442.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/screenshot/26102025043446.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/screenshot/26102025043449.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/screenshot/26102025043450.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/screenshot/26102025043909.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/screenshot/26102025043910.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/screenshot/26102025043912.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/screenshot/26102025043915.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/screenshot/26102025043916.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/screenshot/26102025043919.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/reports/screenshot/26102025043940.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/runner/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vtiger/runner/TestRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/stepsdefinitions/baseSteps.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/stepsdefinitions/leadsteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/stepsdefinitions/basesteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vtiger/stepsdefinitions/basesteps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/stepsdefinitions/loginsteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vtiger/stepsdefinitions/loginsteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vtiger/utils/CommonMethods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/Config.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/Data/testdata.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/Features/Leads.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/Features/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Features/Login.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Config/setting.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Config/setting.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/TestData/data.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/TestData/data.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-reports.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Config/setting.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Config/setting.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestData/data.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestData/data.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/vtiger/runner/TestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/vtiger/runner/TestRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/vtiger/stepsdefinitions/basesteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/vtiger/stepsdefinitions/basesteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/vtiger/stepsdefinitions/loginsteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/vtiger/stepsdefinitions/loginsteps.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +104,7 @@
       <recent name="com.vtiger.runner" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestRunner">
+  <component name="RunManager" selected="TestNG.C:/Course/Selenium_Java/SeleniumNov25/Nov25Cucumber/testng.xml">
     <configuration name="FileUpload_Robot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.vtiger.utils.FileUpload_Robot" />
       <module name="Aug25Cucumber" />
@@ -193,8 +173,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestRunner" />
         <item itemvalue="TestNG.C:/Course/Selenium_Java/SeleniumNov25/Nov25Cucumber/testng.xml" />
+        <item itemvalue="TestNG.TestRunner" />
         <item itemvalue="Application.FramesExamples" />
         <item itemvalue="Application.FileUpload_Robot" />
         <item itemvalue="Application.JavaScriptExamples" />
@@ -227,8 +207,19 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/vtiger/stepsdefinitions/basesteps.java</url>
-          <line>53</line>
+          <line>48</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="&quot;Cucumber+&quot;!=null" />
+          <url>file://$PROJECT_DIR$/src/test/java/com/vtiger/stepsdefinitions/API_steps.java</url>
+          <line>126</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="tzatziki.gherkin.step">
+          <url>file://$PROJECT_DIR$/src/test/resources/Features/API.feature</url>
+          <line>21</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

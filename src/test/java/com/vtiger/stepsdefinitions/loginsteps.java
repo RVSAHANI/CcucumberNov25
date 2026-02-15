@@ -19,6 +19,12 @@ public class loginsteps extends basesteps  {
         if(htmlReporter==null) {
             createExtentReport();
         }
+        if(prop==null) {
+            readsetting();
+        }
+        if(dt==null) {
+            readdata();
+        }
         ScenarioName = scenario.getName();
         logger = extent.createTest(ScenarioName);
         logger.info("Test Execution started");

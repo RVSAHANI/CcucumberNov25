@@ -17,7 +17,7 @@ import org.testng.annotations.Parameters;
 
         ,dryRun = false
         ,plugin = {"pretty","html:target/cucumber-reports.html","json:target/cucumber.json"}
-        ,tags = "@abc"
+        ,tags = "@chetana"
         ,monochrome = false
 
 

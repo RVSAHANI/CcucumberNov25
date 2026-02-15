@@ -45,12 +45,7 @@ public class basesteps {
 
 
     public void LaunchApp() throws Exception {
-        if(prop==null) {
-            readsetting();
-        }
-        if(dt==null) {
-            readdata();
-        }
+
         String browser = TestRunner.browserName;
         DriverManager dm = new DriverManager();
         if(browser!=null) {
